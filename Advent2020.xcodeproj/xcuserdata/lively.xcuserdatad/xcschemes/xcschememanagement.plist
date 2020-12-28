@@ -114,6 +114,21 @@
 			<key>orderHint</key>
 			<integer>22</integer>
 		</dict>
+		<key>23.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>24.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>25.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
 		<key>Advent2020.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
